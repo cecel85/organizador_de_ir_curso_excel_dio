@@ -1,2 +1,2 @@
-# organizador_de_ir_curso_excel_dio
-Entrega do projeto de criação de um organizador de IR
+# Projeto de Criação de um Organizador de Imposto de Renda
+Entrega do projeto de criação de um organizador de IR relacionado ao curso de excel da DIO.
